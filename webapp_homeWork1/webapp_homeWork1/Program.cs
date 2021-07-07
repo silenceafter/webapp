@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace webapp_homeWork1
 {
-	public class MyResponse
+	public class Response
 	{
 		public int userId { get; set; }
 		public int id { get; set; }
@@ -24,25 +24,28 @@ namespace webapp_homeWork1
 		public static async Task Main(string[] args)
 		{
 			//получить записи с 4-й по 13-ю включительно
-			var myTasks = new List<Task<MyResponse>>();
+			var Tasks = new List<Task<Response>>();
 			Console.WriteLine("Получение данных:");
 			for (int i = 4; i <= 13; i++)
 			{				
 				var task = GetRequest(i);
-				myTasks.Add(task);
+				Tasks.Add(task);
 			}
 
 			//ждем выполнения задач
 			try
-			{
+            {
 				tokenSource.CancelAfter(10000);
-				_ = await Task.WhenAll(myTasks);               
-			} 
-			catch (TaskCanceledException myex)
-			{
-				Console.WriteLine("Выполнение задач остановлено, ошибка: " + myex.Message);
+				_ = await Task.WhenAll(Tasks);
 			}
-			Console.WriteLine("Все данные получены");
+			catch (TaskCanceledException ex)
+            {
+				Console.WriteLine("Выполнение задач остановлено, ошибка: " + ex.Message);
+			}
+			finally
+            {
+				tokenSource.Dispose();
+            }
 
 			//запись в текстовый файл
 			string fileName = "result.txt";
@@ -51,39 +54,39 @@ namespace webapp_homeWork1
 			{
 				using (StreamWriter sw = new StreamWriter(fileName, false, System.Text.Encoding.Default))
 				{
-					for (int i = 0; i < myTasks.Count; i++)
+					for (int i = 0; i < Tasks.Count; i++)
 					{
-						if (myTasks[i].Result.title != null)
+						if (Tasks[i].IsCompletedSuccessfully)
 						{
-							await sw.WriteLineAsync($"{myTasks[i].Result.userId}");
-							await sw.WriteLineAsync($"{myTasks[i].Result.id}");
-							await sw.WriteLineAsync($"{myTasks[i].Result.title}");
-							await sw.WriteLineAsync($"{myTasks[i].Result.body}\n");
-						}                                                
+							await sw.WriteLineAsync($"{Tasks[i].Result.userId}");
+							await sw.WriteLineAsync($"{Tasks[i].Result.id}");
+							await sw.WriteLineAsync($"{Tasks[i].Result.title}");
+							await sw.WriteLineAsync($"{Tasks[i].Result.body}\n");                                              
+						}
 					}
 					Console.WriteLine($"Запись завершена");
 				}                
 			}
-			catch(Exception myex)
+			catch(Exception ex)
 			{
-				Console.WriteLine($"Ошибка записи в файл: {myex.Message}");
+				Console.WriteLine($"Ошибка записи в файл: {ex.Message}");
 			}
 		}
 
-		static async Task<MyResponse> GetRequest(int id)
+		static async Task<Response> GetRequest(int id)
 		{
-			MyResponse result = new MyResponse();			
+			Response result = new Response();			
 			try
 			{
 				Console.WriteLine($"https://jsonplaceholder.typicode.com/posts/{id}");
 				HttpResponseMessage response = await myClient.GetAsync($"https://jsonplaceholder.typicode.com/posts/{id}", tokenSource.Token);
 				response.EnsureSuccessStatusCode();//проверка                
 				string responseBody = await response.Content.ReadAsStringAsync();
-				result = JsonSerializer.Deserialize<MyResponse>(responseBody);				
+				result = JsonSerializer.Deserialize<Response>(responseBody);				
 			}
-			catch (HttpRequestException myex)
+			catch (HttpRequestException ex)
 			{                
-				Console.WriteLine("Exception ", myex.Message);
+				Console.WriteLine("Exception ", ex.Message);
 			}
 			return result;
 		}
