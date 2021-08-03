@@ -27,47 +27,52 @@ namespace webapp_homeWork1
 			var Tasks = new List<Task<Response>>();
 			Console.WriteLine("Получение данных:");
 			for (int i = 4; i <= 13; i++)
-			{				
+			{
 				var task = GetRequest(i);
-				Tasks.Add(task);
+				if (task.Exception == null)
+				{
+					//нет ошибки чтения => добавляем на выполнение (?)
+					Tasks.Add(task);
+				}
 			}
 
 			//ждем выполнения задач
 			try
-            {
+			{
 				tokenSource.CancelAfter(10000);
 				_ = await Task.WhenAll(Tasks);
 			}
 			catch (TaskCanceledException ex)
-            {
+			{
 				Console.WriteLine("Выполнение задач остановлено, ошибка: " + ex.Message);
 			}
 			finally
-            {
+			{
 				tokenSource.Dispose();
-            }
+			}
 
 			//запись в текстовый файл
-			string fileName = "result.txt";
-			Console.WriteLine($"Запись в файл {fileName}");
+			string filename = "result.txt";
+			Console.WriteLine($"\nЗапись в файл {filename}");
 			try
 			{
-				using (StreamWriter sw = new StreamWriter(fileName, false, System.Text.Encoding.Default))
+				using (StreamWriter sw = new StreamWriter(filename, false, System.Text.Encoding.Default))
 				{
 					for (int i = 0; i < Tasks.Count; i++)
-					{
-						if (Tasks[i].IsCompletedSuccessfully)
+					{						
+						if (WriteToFile(Tasks[i], sw))
 						{
-							await sw.WriteLineAsync($"{Tasks[i].Result.userId}");
-							await sw.WriteLineAsync($"{Tasks[i].Result.id}");
-							await sw.WriteLineAsync($"{Tasks[i].Result.title}");
-							await sw.WriteLineAsync($"{Tasks[i].Result.body}\n");                                              
+							Console.WriteLine($"Строка {i} записана успешно");
+						}
+						else
+						{
+							Console.WriteLine($"Строка {i} не записана");
 						}
 					}
 					Console.WriteLine($"Запись завершена");
-				}                
+				}
 			}
-			catch(Exception ex)
+			catch (Exception ex)
 			{
 				Console.WriteLine($"Ошибка записи в файл: {ex.Message}");
 			}
@@ -75,20 +80,41 @@ namespace webapp_homeWork1
 
 		static async Task<Response> GetRequest(int id)
 		{
-			Response result = new Response();			
+			Response result = new Response();
 			try
 			{
 				Console.WriteLine($"https://jsonplaceholder.typicode.com/posts/{id}");
 				HttpResponseMessage response = await myClient.GetAsync($"https://jsonplaceholder.typicode.com/posts/{id}", tokenSource.Token);
 				response.EnsureSuccessStatusCode();//проверка                
 				string responseBody = await response.Content.ReadAsStringAsync();
-				result = JsonSerializer.Deserialize<Response>(responseBody);				
+				result = JsonSerializer.Deserialize<Response>(responseBody);
 			}
 			catch (HttpRequestException ex)
-			{                
+			{
 				Console.WriteLine("Exception ", ex.Message);
 			}
 			return result;
 		}
+
+        static bool WriteToFile(Task<Response> task, StreamWriter sw)
+        {
+			var status = true;
+			try
+			{
+				if (task.IsCompletedSuccessfully)
+				{
+                    sw.WriteLine($"{task.Result.userId}");
+					sw.WriteLine($"{task.Result.id}");
+					sw.WriteLine($"{task.Result.title}");
+					sw.WriteLine($"{task.Result.body}\n");                    
+				}				
+			}
+			catch (Exception ex)
+			{
+				Console.WriteLine($"Ошибка записи в файл: {ex.Message}");
+				status = false;
+			}
+            return status;
+        }
 	}
 }
