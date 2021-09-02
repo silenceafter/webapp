@@ -7,7 +7,7 @@ namespace Timesheets
 {
     public class Employee
     {
-        public int id { get; set; }
-        public double account { get; set; }//денежный счет
+        public int Id { get; set; }
+        public float Rate { get; set; }//ставка
     }
 }

@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <Folder Include="DataAccessLayer\Repositories\" />
+    <Folder Include="Jobs\" />
   </ItemGroup>
 
 </Project>

@@ -9,8 +9,11 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Threading.Tasks;
+using Timesheets;
+using Timesheets.Controllers.Responses;
 
 namespace homeWork2
 {
@@ -28,6 +31,7 @@ namespace homeWork2
         {
 
             services.AddControllers();
+            services.AddSingleton<DictionariesGlobal>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "homeWork2", Version = "v1" });
