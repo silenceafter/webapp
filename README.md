@@ -4,12 +4,12 @@
 Роли:
  - Administrator (полный доступ),
  - Employee (доступ только к части, которая касается работника и его задач),
- - Customer (часть заказчика и его задачи).
+ - Customer (заказчик и его задачи).
  
  Пользователи:
-  login: silenceafter, password: bdw (администратор),
-  login: myemployee, password: bdw (работник),
-  login: mycustomer, password: bdw (заказчик).
+ - login: silenceafter, password: bdw (администратор),
+ - login: myemployee, password: bdw (работник),
+ - login: mycustomer, password: bdw (заказчик).
   Можно добавить своих пользователей для проверки работы задания.
   
   После копирования проекта и выполнения миграции БД TimesheetDB в PostgreSQL:
