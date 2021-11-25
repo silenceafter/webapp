@@ -1,0 +1,468 @@
+2021-11-09 19:32:43.4981 Info Message Template Auto Format enabled
+2021-11-09 19:32:43.5499 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-09 19:32:43.6239 Info Adding target FileTarget(Name=allfile)
+2021-11-09 19:32:43.6374 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-09 19:32:43.7127 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-09 19:34:47.5981 Info Message Template Auto Format enabled
+2021-11-09 19:34:47.6333 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-09 19:34:47.7471 Info Adding target FileTarget(Name=allfile)
+2021-11-09 19:34:47.7828 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-09 19:34:47.8889 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-09 20:15:03.6687 Info Message Template Auto Format enabled
+2021-11-09 20:15:03.7725 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-09 20:15:03.9090 Info Adding target FileTarget(Name=allfile)
+2021-11-09 20:15:03.9288 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-09 20:15:04.1079 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-09 23:01:35.7642 Info Message Template Auto Format enabled
+2021-11-09 23:01:35.8293 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-09 23:01:36.0133 Info Adding target FileTarget(Name=allfile)
+2021-11-09 23:01:36.1134 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-09 23:01:36.1983 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-11 01:35:12.6910 Info Message Template Auto Format enabled
+2021-11-11 01:35:17.3541 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-11 01:35:17.9443 Info Adding target FileTarget(Name=allfile)
+2021-11-11 01:35:18.8375 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-11 01:35:19.1462 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-11 01:59:33.9982 Info Message Template Auto Format enabled
+2021-11-11 01:59:34.1559 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-11 01:59:34.3041 Info Adding target FileTarget(Name=allfile)
+2021-11-11 01:59:34.4473 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-11 01:59:34.8179 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-14 14:53:17.1254 Info Message Template Auto Format enabled
+2021-11-14 14:53:17.2454 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 14:53:17.4048 Info Adding target FileTarget(Name=allfile)
+2021-11-14 14:53:17.4991 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 14:53:17.6973 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-14 15:15:02.1979 Info Message Template Auto Format enabled
+2021-11-14 15:15:02.1979 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 15:15:02.2485 Info Adding target FileTarget(Name=allfile)
+2021-11-14 15:15:02.2485 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 15:15:02.2740 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-14 15:15:02.2907 Info Configuration initialized.
+2021-11-14 15:15:02.2907 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-14 15:15:03.6533 Info AppDomain Shutting down. Logger closing...
+2021-11-14 15:15:03.6677 Info Logger has been shut down.
+2021-11-14 15:15:20.1019 Info Message Template Auto Format enabled
+2021-11-14 15:15:20.1099 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 15:15:20.1528 Info Adding target FileTarget(Name=allfile)
+2021-11-14 15:15:20.1528 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 15:15:20.1776 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-14 15:15:20.1939 Info Configuration initialized.
+2021-11-14 15:15:20.1939 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-14 15:15:23.5395 Info AppDomain Shutting down. Logger closing...
+2021-11-14 15:15:23.5395 Info Logger has been shut down.
+2021-11-14 15:41:26.6784 Info Message Template Auto Format enabled
+2021-11-14 15:41:26.7674 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 15:41:26.9106 Info Adding target FileTarget(Name=allfile)
+2021-11-14 15:41:27.0741 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 15:41:27.1914 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-14 16:02:35.5144 Info Message Template Auto Format enabled
+2021-11-14 16:02:35.5469 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 16:02:35.6655 Info Adding target FileTarget(Name=allfile)
+2021-11-14 16:02:35.7131 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 16:02:35.7842 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-14 16:05:43.9623 Info Message Template Auto Format enabled
+2021-11-14 16:05:44.2286 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 16:05:44.3642 Info Adding target FileTarget(Name=allfile)
+2021-11-14 16:05:44.4488 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 16:05:44.6101 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-14 16:06:29.8610 Info Message Template Auto Format enabled
+2021-11-14 16:06:29.8937 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 16:06:30.0246 Info Adding target FileTarget(Name=allfile)
+2021-11-14 16:06:30.0427 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 16:06:30.1174 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-14 16:08:16.0974 Info Message Template Auto Format enabled
+2021-11-14 16:08:16.1485 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 16:08:16.2582 Info Adding target FileTarget(Name=allfile)
+2021-11-14 16:08:16.2782 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 16:08:16.3492 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-14 16:25:20.5196 Info Message Template Auto Format enabled
+2021-11-14 16:25:20.6229 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 16:25:20.7741 Info Adding target FileTarget(Name=allfile)
+2021-11-14 16:25:20.8731 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 16:25:21.0054 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-14 16:33:24.3099 Info Message Template Auto Format enabled
+2021-11-14 16:33:24.5103 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 16:33:24.6930 Info Adding target FileTarget(Name=allfile)
+2021-11-14 16:33:24.8943 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 16:33:25.2696 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-14 16:34:37.8131 Info Message Template Auto Format enabled
+2021-11-14 16:34:37.8530 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 16:34:37.9674 Info Adding target FileTarget(Name=allfile)
+2021-11-14 16:34:37.9845 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 16:34:38.0880 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-14 16:36:07.4804 Info Message Template Auto Format enabled
+2021-11-14 16:36:07.5151 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 16:36:07.6097 Info Adding target FileTarget(Name=allfile)
+2021-11-14 16:36:07.6216 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 16:36:07.6966 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-14 16:36:52.0447 Info Message Template Auto Format enabled
+2021-11-14 16:36:52.0709 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 16:36:52.1963 Info Adding target FileTarget(Name=allfile)
+2021-11-14 16:36:52.2229 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 16:36:52.4112 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-14 16:55:40.8924 Info Message Template Auto Format enabled
+2021-11-14 16:55:40.9369 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 16:55:41.0400 Info Adding target FileTarget(Name=allfile)
+2021-11-14 16:55:41.0624 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 16:55:41.1379 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-14 16:57:55.5566 Info Message Template Auto Format enabled
+2021-11-14 16:57:55.5785 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-14 16:57:55.6594 Info Adding target FileTarget(Name=allfile)
+2021-11-14 16:57:55.6696 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-14 16:57:55.7290 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-15 00:19:47.7666 Info Message Template Auto Format enabled
+2021-11-15 00:19:47.7773 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 00:19:47.8372 Info Adding target FileTarget(Name=allfile)
+2021-11-15 00:19:47.8372 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 00:19:47.8739 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-15 00:19:47.8962 Info Configuration initialized.
+2021-11-15 00:19:47.8962 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-15 00:19:49.1001 Info AppDomain Shutting down. Logger closing...
+2021-11-15 00:19:49.1140 Info Logger has been shut down.
+2021-11-15 00:19:59.0439 Info Message Template Auto Format enabled
+2021-11-15 00:19:59.0439 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 00:19:59.1194 Info Adding target FileTarget(Name=allfile)
+2021-11-15 00:19:59.1194 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 00:19:59.1574 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-15 00:19:59.1761 Info Configuration initialized.
+2021-11-15 00:19:59.1761 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-15 00:20:01.9504 Info AppDomain Shutting down. Logger closing...
+2021-11-15 00:20:01.9715 Info Logger has been shut down.
+2021-11-15 00:24:45.9549 Info Message Template Auto Format enabled
+2021-11-15 00:24:45.9651 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 00:24:46.0267 Info Adding target FileTarget(Name=allfile)
+2021-11-15 00:24:46.0267 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 00:24:46.0620 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-15 00:24:46.0864 Info Configuration initialized.
+2021-11-15 00:24:46.0864 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-15 00:24:49.1716 Info AppDomain Shutting down. Logger closing...
+2021-11-15 00:24:49.1854 Info Logger has been shut down.
+2021-11-15 00:24:55.6269 Info Message Template Auto Format enabled
+2021-11-15 00:24:55.6354 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 00:24:55.6781 Info Adding target FileTarget(Name=allfile)
+2021-11-15 00:24:55.6802 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 00:24:55.7035 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-15 00:24:55.7194 Info Configuration initialized.
+2021-11-15 00:24:55.7194 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-15 00:24:56.9287 Info AppDomain Shutting down. Logger closing...
+2021-11-15 00:24:56.9427 Info Logger has been shut down.
+2021-11-15 00:25:06.9837 Info Message Template Auto Format enabled
+2021-11-15 00:25:06.9933 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 00:25:07.0616 Info Adding target FileTarget(Name=allfile)
+2021-11-15 00:25:07.0616 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 00:25:07.0987 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-15 00:25:07.1234 Info Configuration initialized.
+2021-11-15 00:25:07.1234 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-15 00:25:09.2916 Info AppDomain Shutting down. Logger closing...
+2021-11-15 00:25:09.3114 Info Logger has been shut down.
+2021-11-15 00:39:19.7622 Info Message Template Auto Format enabled
+2021-11-15 00:39:19.7622 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 00:39:19.8140 Info Adding target FileTarget(Name=allfile)
+2021-11-15 00:39:19.8140 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 00:39:19.8387 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-15 00:39:19.8549 Info Configuration initialized.
+2021-11-15 00:39:19.8549 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-15 00:39:20.8809 Info AppDomain Shutting down. Logger closing...
+2021-11-15 00:39:20.8949 Info Logger has been shut down.
+2021-11-15 00:40:11.5041 Info Message Template Auto Format enabled
+2021-11-15 00:40:11.5129 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 00:40:11.5745 Info Adding target FileTarget(Name=allfile)
+2021-11-15 00:40:11.5745 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 00:40:11.6158 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-15 00:40:11.6450 Info Configuration initialized.
+2021-11-15 00:40:11.6450 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-15 00:40:15.1680 Info AppDomain Shutting down. Logger closing...
+2021-11-15 00:40:15.1839 Info Logger has been shut down.
+2021-11-15 01:51:20.4980 Info Message Template Auto Format enabled
+2021-11-15 01:51:20.4980 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 01:51:20.5602 Info Adding target FileTarget(Name=allfile)
+2021-11-15 01:51:20.5602 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 01:51:20.6067 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-15 01:51:20.6409 Info Configuration initialized.
+2021-11-15 01:51:20.6409 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-15 01:51:21.7063 Info AppDomain Shutting down. Logger closing...
+2021-11-15 01:51:21.7212 Info Logger has been shut down.
+2021-11-15 01:53:01.4069 Info Message Template Auto Format enabled
+2021-11-15 01:53:01.4144 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 01:53:01.4576 Info Adding target FileTarget(Name=allfile)
+2021-11-15 01:53:01.4576 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 01:53:01.4830 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-15 01:53:01.4990 Info Configuration initialized.
+2021-11-15 01:53:01.4990 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-15 01:53:02.8511 Info AppDomain Shutting down. Logger closing...
+2021-11-15 01:53:02.8650 Info Logger has been shut down.
+2021-11-15 01:53:12.4616 Info Message Template Auto Format enabled
+2021-11-15 01:53:12.4616 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 01:53:12.5138 Info Adding target FileTarget(Name=allfile)
+2021-11-15 01:53:12.5138 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 01:53:12.5401 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-15 01:53:12.5578 Info Configuration initialized.
+2021-11-15 01:53:12.5578 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-15 01:53:15.6671 Info AppDomain Shutting down. Logger closing...
+2021-11-15 01:53:15.6827 Info Logger has been shut down.
+2021-11-15 23:38:09.6997 Info Message Template Auto Format enabled
+2021-11-15 23:38:09.7138 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 23:38:09.7592 Info Adding target FileTarget(Name=allfile)
+2021-11-15 23:38:09.7592 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 23:38:09.7845 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-15 23:38:09.8007 Info Configuration initialized.
+2021-11-15 23:38:09.8007 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-15 23:38:10.8745 Info AppDomain Shutting down. Logger closing...
+2021-11-15 23:38:10.8909 Info Logger has been shut down.
+2021-11-15 23:38:54.0825 Info Message Template Auto Format enabled
+2021-11-15 23:38:54.0825 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 23:38:54.1324 Info Adding target FileTarget(Name=allfile)
+2021-11-15 23:38:54.1324 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 23:38:54.1587 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-15 23:38:54.1748 Info Configuration initialized.
+2021-11-15 23:38:54.1748 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-15 23:38:55.6108 Info AppDomain Shutting down. Logger closing...
+2021-11-15 23:38:55.6250 Info Logger has been shut down.
+2021-11-15 23:39:05.0488 Info Message Template Auto Format enabled
+2021-11-15 23:39:05.0560 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 23:39:05.0978 Info Adding target FileTarget(Name=allfile)
+2021-11-15 23:39:05.0978 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 23:39:05.1232 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-15 23:39:05.1392 Info Configuration initialized.
+2021-11-15 23:39:05.1392 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-15 23:39:08.1461 Info AppDomain Shutting down. Logger closing...
+2021-11-15 23:39:08.1868 Info Logger has been shut down.
+2021-11-15 23:40:22.6381 Info Message Template Auto Format enabled
+2021-11-15 23:40:22.6772 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 23:40:22.7671 Info Adding target FileTarget(Name=allfile)
+2021-11-15 23:40:22.7841 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 23:40:22.8645 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-15 23:53:28.3847 Info Message Template Auto Format enabled
+2021-11-15 23:53:28.4421 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 23:53:28.5938 Info Adding target FileTarget(Name=allfile)
+2021-11-15 23:53:28.6924 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 23:53:28.8102 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-15 23:57:26.0910 Info Message Template Auto Format enabled
+2021-11-15 23:57:26.1304 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-15 23:57:26.2545 Info Adding target FileTarget(Name=allfile)
+2021-11-15 23:57:26.2812 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-15 23:57:26.5237 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 00:00:41.9930 Info Message Template Auto Format enabled
+2021-11-16 00:00:42.0983 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 00:00:42.2200 Info Adding target FileTarget(Name=allfile)
+2021-11-16 00:00:42.2643 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 00:00:42.3544 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 00:02:44.0457 Info Message Template Auto Format enabled
+2021-11-16 00:02:44.1069 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 00:02:44.2172 Info Adding target FileTarget(Name=allfile)
+2021-11-16 00:02:44.2399 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 00:02:44.3501 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 00:09:46.9013 Info Message Template Auto Format enabled
+2021-11-16 00:09:46.9675 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 00:09:47.5557 Info Adding target FileTarget(Name=allfile)
+2021-11-16 00:09:47.6430 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 00:09:47.7202 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 00:18:10.3258 Info Message Template Auto Format enabled
+2021-11-16 00:18:10.3866 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 00:18:10.5037 Info Adding target FileTarget(Name=allfile)
+2021-11-16 00:18:10.5566 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 00:18:10.9106 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 00:24:40.0738 Info Message Template Auto Format enabled
+2021-11-16 00:24:40.1136 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 00:24:40.2338 Info Adding target FileTarget(Name=allfile)
+2021-11-16 00:24:40.2723 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 00:24:40.4968 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 00:27:55.0253 Info Message Template Auto Format enabled
+2021-11-16 00:27:55.0703 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 00:27:55.2140 Info Adding target FileTarget(Name=allfile)
+2021-11-16 00:27:55.2400 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 00:27:55.3404 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 00:29:24.3528 Info Message Template Auto Format enabled
+2021-11-16 00:29:24.3920 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 00:29:24.5207 Info Adding target FileTarget(Name=allfile)
+2021-11-16 00:29:24.5631 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 00:29:24.6990 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 00:32:05.7908 Info Message Template Auto Format enabled
+2021-11-16 00:32:05.8448 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 00:32:05.9645 Info Adding target FileTarget(Name=allfile)
+2021-11-16 00:32:06.0075 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 00:32:06.1115 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 00:34:21.3119 Info Message Template Auto Format enabled
+2021-11-16 00:34:21.3778 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 00:34:21.4992 Info Adding target FileTarget(Name=allfile)
+2021-11-16 00:34:21.5281 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 00:34:21.6822 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 00:35:19.4511 Info Message Template Auto Format enabled
+2021-11-16 00:35:19.5650 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 00:35:19.6736 Info Adding target FileTarget(Name=allfile)
+2021-11-16 00:35:19.6903 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 00:35:19.8060 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 00:42:00.2778 Info Message Template Auto Format enabled
+2021-11-16 00:42:00.3232 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 00:42:00.4259 Info Adding target FileTarget(Name=allfile)
+2021-11-16 00:42:00.4492 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 00:42:00.6236 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 00:43:56.7177 Info Message Template Auto Format enabled
+2021-11-16 00:43:56.7756 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 00:43:56.9402 Info Adding target FileTarget(Name=allfile)
+2021-11-16 00:43:56.9716 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 00:43:57.0617 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 00:56:17.3023 Info Message Template Auto Format enabled
+2021-11-16 00:56:17.3625 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 00:56:17.5439 Info Adding target FileTarget(Name=allfile)
+2021-11-16 00:56:17.6290 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 00:56:17.7494 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 00:58:06.2619 Info Message Template Auto Format enabled
+2021-11-16 00:58:06.3279 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 00:58:06.4483 Info Adding target FileTarget(Name=allfile)
+2021-11-16 00:58:06.4818 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 00:58:06.6366 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 01:02:36.5222 Info Message Template Auto Format enabled
+2021-11-16 01:02:36.6101 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 01:02:37.1971 Info Adding target FileTarget(Name=allfile)
+2021-11-16 01:02:37.2107 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 01:02:37.2980 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 01:13:39.3673 Info Message Template Auto Format enabled
+2021-11-16 01:13:39.3919 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 01:13:39.4852 Info Adding target FileTarget(Name=allfile)
+2021-11-16 01:13:39.5038 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 01:13:39.6277 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 01:20:23.2373 Info Message Template Auto Format enabled
+2021-11-16 01:20:23.2969 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 01:20:23.4092 Info Adding target FileTarget(Name=allfile)
+2021-11-16 01:20:23.4256 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 01:20:23.4957 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 01:25:14.6926 Info Message Template Auto Format enabled
+2021-11-16 01:25:14.7263 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 01:25:14.8538 Info Adding target FileTarget(Name=allfile)
+2021-11-16 01:25:14.8682 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 01:25:14.9510 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 01:27:16.6630 Info Message Template Auto Format enabled
+2021-11-16 01:27:16.6940 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 01:27:16.8437 Info Adding target FileTarget(Name=allfile)
+2021-11-16 01:27:16.8758 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 01:27:16.9690 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 01:31:51.2644 Info Message Template Auto Format enabled
+2021-11-16 01:31:51.2959 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 01:31:51.4098 Info Adding target FileTarget(Name=allfile)
+2021-11-16 01:31:51.4275 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 01:31:51.5665 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 01:48:45.5912 Info Message Template Auto Format enabled
+2021-11-16 01:48:45.6483 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 01:48:45.7639 Info Adding target FileTarget(Name=allfile)
+2021-11-16 01:48:45.7920 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 01:48:45.9946 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 01:53:39.9252 Info Message Template Auto Format enabled
+2021-11-16 01:53:40.0119 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 01:53:40.1997 Info Adding target FileTarget(Name=allfile)
+2021-11-16 01:53:40.2587 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 01:53:40.4485 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-16 01:55:43.3087 Info Message Template Auto Format enabled
+2021-11-16 01:55:43.3399 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-16 01:55:43.4612 Info Adding target FileTarget(Name=allfile)
+2021-11-16 01:55:43.5527 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-16 01:55:43.6486 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-24 23:59:11.0896 Info Message Template Auto Format enabled
+2021-11-24 23:59:11.5606 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-24 23:59:11.9486 Info Adding target FileTarget(Name=allfile)
+2021-11-24 23:59:12.2273 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-24 23:59:12.6098 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 00:02:42.5271 Info Message Template Auto Format enabled
+2021-11-25 00:02:42.6998 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 00:02:42.8613 Info Adding target FileTarget(Name=allfile)
+2021-11-25 00:02:42.9125 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 00:02:43.0010 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 00:11:20.3937 Info Message Template Auto Format enabled
+2021-11-25 00:11:20.4449 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 00:11:20.5748 Info Adding target FileTarget(Name=allfile)
+2021-11-25 00:11:20.6786 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 00:11:20.8672 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 00:26:44.0456 Info Message Template Auto Format enabled
+2021-11-25 00:26:44.1655 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 00:26:44.3386 Info Adding target FileTarget(Name=allfile)
+2021-11-25 00:26:44.3820 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 00:26:45.4779 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 00:36:53.5242 Info Message Template Auto Format enabled
+2021-11-25 00:36:53.5917 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 00:36:53.7687 Info Adding target FileTarget(Name=allfile)
+2021-11-25 00:36:53.8329 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 00:36:53.9293 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 00:52:59.0579 Info Message Template Auto Format enabled
+2021-11-25 00:52:59.1131 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 00:52:59.2267 Info Adding target FileTarget(Name=allfile)
+2021-11-25 00:52:59.2451 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 00:52:59.3795 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 01:07:07.3236 Info Message Template Auto Format enabled
+2021-11-25 01:07:07.3907 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 01:07:07.5275 Info Adding target FileTarget(Name=allfile)
+2021-11-25 01:07:07.5562 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 01:07:07.6353 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 01:09:17.6899 Info Message Template Auto Format enabled
+2021-11-25 01:09:17.7304 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 01:09:17.8209 Info Adding target FileTarget(Name=allfile)
+2021-11-25 01:09:17.8334 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 01:09:17.9301 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 01:18:26.5938 Info Message Template Auto Format enabled
+2021-11-25 01:18:26.6460 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 01:18:26.7889 Info Adding target FileTarget(Name=allfile)
+2021-11-25 01:18:26.8777 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 01:18:26.9588 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 01:21:26.2838 Info Message Template Auto Format enabled
+2021-11-25 01:21:26.6194 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 01:21:26.7381 Info Adding target FileTarget(Name=allfile)
+2021-11-25 01:21:26.7885 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 01:21:26.9239 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 02:02:48.9846 Info Message Template Auto Format enabled
+2021-11-25 02:02:49.0284 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 02:02:49.1317 Info Adding target FileTarget(Name=allfile)
+2021-11-25 02:02:49.1494 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 02:02:49.2320 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 02:16:29.0250 Info Message Template Auto Format enabled
+2021-11-25 02:16:29.0920 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 02:16:29.2009 Info Adding target FileTarget(Name=allfile)
+2021-11-25 02:16:29.2174 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 02:16:29.2959 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 02:17:58.5186 Info Message Template Auto Format enabled
+2021-11-25 02:17:58.5813 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 02:17:58.6817 Info Adding target FileTarget(Name=allfile)
+2021-11-25 02:17:58.6985 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 02:17:58.8713 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 02:27:47.0815 Info Message Template Auto Format enabled
+2021-11-25 02:27:47.1236 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 02:27:47.2215 Info Adding target FileTarget(Name=allfile)
+2021-11-25 02:27:47.2387 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 02:27:47.3592 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 02:29:33.4409 Info Message Template Auto Format enabled
+2021-11-25 02:29:33.4866 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 02:29:33.6228 Info Adding target FileTarget(Name=allfile)
+2021-11-25 02:29:33.6565 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 02:29:33.7302 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 02:38:15.8906 Info Message Template Auto Format enabled
+2021-11-25 02:38:15.9102 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 02:38:16.0353 Info Adding target FileTarget(Name=allfile)
+2021-11-25 02:38:16.0707 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 02:38:16.1744 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\silenceafter\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 07:53:01.7489 Info Message Template Auto Format enabled
+2021-11-25 07:53:01.7570 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 07:53:01.8053 Info Adding target FileTarget(Name=allfile)
+2021-11-25 07:53:01.8053 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 07:53:01.8283 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\PROG5\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-25 07:53:01.8506 Info Configuration initialized.
+2021-11-25 07:53:01.8506 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-25 07:53:03.4123 Info AppDomain Shutting down. Logger closing...
+2021-11-25 07:53:03.4318 Info Logger has been shut down.
+2021-11-25 07:56:21.9072 Info Message Template Auto Format enabled
+2021-11-25 07:56:21.9160 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 07:56:21.9601 Info Adding target FileTarget(Name=allfile)
+2021-11-25 07:56:21.9601 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 07:56:21.9863 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\PROG5\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\NLog.config
+2021-11-25 07:56:22.0073 Info Configuration initialized.
+2021-11-25 07:56:22.0073 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.11.13229. Product version: 4.7.11+33ed3a9f86277651e93ddf39cda64a046a06778b. GlobalAssemblyCache: False
+2021-11-25 07:56:35.8716 Info AppDomain Shutting down. Logger closing...
+2021-11-25 07:56:35.8860 Info Logger has been shut down.
+2021-11-25 07:57:55.6972 Info Message Template Auto Format enabled
+2021-11-25 07:57:55.7540 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 07:57:55.8413 Info Adding target FileTarget(Name=allfile)
+2021-11-25 07:57:55.8680 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 07:57:55.9733 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\PROG5\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
+2021-11-25 08:19:07.2959 Info Message Template Auto Format enabled
+2021-11-25 08:19:07.3111 Info Loading assembly: NLog.Web.AspNetCore
+2021-11-25 08:19:07.3642 Info Adding target FileTarget(Name=allfile)
+2021-11-25 08:19:07.3749 Info Adding target FileTarget(Name=ownFile-web)
+2021-11-25 08:19:07.4170 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\PROG5\source\repos\Timesheets\Timesheets\bin\Debug\net5.0\nlog.config
